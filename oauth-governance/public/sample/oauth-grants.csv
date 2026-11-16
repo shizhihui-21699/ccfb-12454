@@ -1,0 +1,676 @@
+id,userId,userName,department,email,appId,appName,publisher,publisherVerified,scopes,grantedAt,lastUsedAt
+g00001,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-10-23T23:51:25.708Z,2026-07-31T05:22:54.831Z
+g00002,u0087,吴文,法务部,wen.wu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-10-22T20:38:59.238Z,
+g00003,u0088,孙子轩,客户成功部,zixuan.sun@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-12-10T02:32:02.948Z,2026-07-22T20:36:57.550Z
+g00004,u0085,孙霞,财务部,xia.sun@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-10-23T20:13:03.495Z,2026-11-04T00:22:41.451Z
+g00005,u0110,孙建华,研发部,jianhua.sun@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-10-06T01:11:58.006Z,2026-11-08T03:35:57.054Z
+g00006,u0078,罗雪,客户成功部,xue.luo@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-05-15T02:10:30.838Z,2026-08-14T23:51:08.532Z
+g00007,u0011,郭平,产品部,ping.guo@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-06-29T03:17:17.613Z,2026-09-29T01:51:51.602Z
+g00008,u0083,胡强,销售部,qiang.hu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-04-11T00:38:41.994Z,2026-10-17T21:53:47.951Z
+g00009,u0008,周子轩,客户成功部,zixuan.zhou@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2025-08-08T22:01:11.914Z,
+g00010,u0093,李洋,销售部,yang.li@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2025-08-01T02:15:21.941Z,2026-09-10T18:27:41.782Z
+g00011,u0028,杨建华,客户成功部,jianhua.yang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2026-10-14T18:29:26.130Z,2026-09-29T21:09:53.993Z
+g00012,u0005,李桂英,财务部,guiying.li@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-10-23T04:59:11.512Z,2026-11-08T03:03:54.503Z
+g00013,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-10-21T01:37:41.016Z,2026-08-06T23:01:05.312Z
+g00014,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-06-21T04:07:22.136Z,2026-10-26T20:22:01.132Z
+g00015,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-06-13T01:50:41.052Z,2026-10-02T19:48:42.475Z
+g00016,u0081,陈浩然,产品部,haoran.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-01-26T18:04:48.465Z,2026-07-26T20:30:43.880Z
+g00017,u0012,何芳,市场部,fang.he@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-09-30T23:51:48.516Z,2026-07-31T18:26:53.815Z
+g00018,u0045,李芳,财务部,fang.li@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-06-01T01:02:13.539Z,
+g00019,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-04-14T21:37:26.551Z,
+g00020,u0010,陈伟,研发部,wei.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-11-11T01:59:17.782Z,2026-11-11T00:19:46.737Z
+g00021,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-06-02T22:27:48.428Z,2026-09-17T20:01:46.489Z
+g00022,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2026-05-12T20:33:51.934Z,
+g00023,u0040,李浩然,研发部,haoran.li@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-01-28T23:19:09.539Z,2026-10-14T00:33:31.789Z
+g00024,u0098,杨秀英,客户成功部,xiuying.yang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2025-09-07T20:38:15.764Z,2026-10-13T04:59:01.680Z
+g00025,u0106,林雪,行政部,xue.lin@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-03-07T22:24:48.038Z,2026-08-23T01:33:49.500Z
+g00026,u0095,陈华,财务部,hua.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-05-26T05:00:49.791Z,
+g00027,u0089,王晓峰,信息技术部,xiaofeng.wang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-08-10T01:05:33.652Z,
+g00028,u0002,郑伟,市场部,wei.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-08-09T18:17:22.546Z,2026-08-31T05:40:42.712Z
+g00029,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-12-04T04:25:16.708Z,2026-07-28T20:27:28.891Z
+g00030,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-07-16T23:22:12.353Z,2026-08-15T18:00:51.881Z
+g00031,u0052,郑雨桐,市场部,yutong.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-11-14T22:49:31.689Z,
+g00032,u0056,吴涛,行政部,tao.wu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-07-02T00:09:57.196Z,2026-11-04T19:40:15.078Z
+g00033,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-05-28T22:32:49.897Z,
+g00034,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2026-07-29T22:07:01.539Z,2026-10-08T01:06:50.383Z
+g00035,u0037,胡雨桐,法务部,yutong.hu2@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-01-03T01:27:25.095Z,2026-10-25T21:50:02.302Z
+g00036,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-12-12T05:17:05.828Z,2026-09-20T18:09:59.756Z
+g00037,u0047,郑芳,法务部,fang.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-09-09T03:45:40.759Z,
+g00038,u0035,马敏,财务部,min.ma@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-03-27T03:38:25.692Z,2026-09-03T21:24:40.974Z
+g00039,u0099,何文,信息技术部,wen.he@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-10-20T19:43:41.804Z,2026-10-16T02:53:06.871Z
+g00040,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-03-29T18:18:10.806Z,
+g00041,u0108,孙浩然,客户成功部,haoran.sun@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-10-05T21:06:40.561Z,2026-08-07T18:11:09.331Z
+g00042,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-01-09T23:23:51.202Z,2026-09-09T18:12:08.942Z
+g00043,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-03-01T22:21:55.461Z,
+g00044,u0109,林浩然,信息技术部,haoran.lin@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-08-03T18:53:44.771Z,2026-10-12T00:20:21.211Z
+g00045,u0034,吴宇航,人力资源部,yuhang.wu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-01-05T02:39:12.837Z,
+g00046,u0100,李芳,研发部,fang.li2@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-08-18T05:17:50.576Z,2026-09-18T20:52:55.282Z
+g00047,u0038,刘强,客户成功部,qiang.liu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-03-12T00:33:48.519Z,2026-09-09T23:08:41.685Z
+g00048,u0119,胡涛,信息技术部,tao.hu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-01-10T20:17:40.989Z,2026-09-17T05:38:46.832Z
+g00049,u0032,王杰,市场部,jie.wang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-11-25T00:57:44.781Z,
+g00050,u0051,胡超,产品部,chao.hu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-07-16T01:28:35.154Z,2026-09-21T23:26:52.457Z
+g00051,u0068,王桂英,客户成功部,guiying.wang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-02-19T21:38:17.398Z,2026-10-14T04:27:56.433Z
+g00052,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-06-25T21:54:08.411Z,2026-08-21T00:19:56.452Z
+g00053,u0096,林杰,行政部,jie.lin@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-05-28T20:32:23.061Z,
+g00054,u0017,张刚,法务部,gang.zhang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-10-16T03:11:28.665Z,
+g00055,u0043,张浩然,销售部,haoran.zhang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-11-08T23:18:24.591Z,2026-11-09T20:27:52.418Z
+g00056,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-09-26T20:49:18.819Z,2026-09-28T01:44:25.667Z
+g00057,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-12-29T03:32:39.285Z,2026-10-28T21:49:28.762Z
+g00058,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-01-10T04:34:04.570Z,2026-08-07T01:18:02.417Z
+g00059,u0071,陈强,产品部,qiang.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-11-28T21:16:35.391Z,2026-08-03T22:04:19.411Z
+g00060,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-06-23T23:30:25.273Z,2026-10-26T18:41:48.073Z
+g00061,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2026-10-24T00:15:31.072Z,2026-10-11T02:48:18.920Z
+g00062,u0114,何静,人力资源部,jing.he@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-07-18T02:01:18.600Z,2026-09-08T02:03:45.379Z
+g00063,u0015,孙雨桐,财务部,yutong.sun@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-11-11T01:52:04.943Z,
+g00064,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2025-06-04T21:56:45.599Z,2026-08-29T19:50:45.405Z
+g00065,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-10-06T20:59:05.478Z,
+g00066,u0076,陈敏,行政部,min.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-08-09T19:00:10.695Z,2026-08-09T23:12:02.968Z
+g00067,u0054,朱明,人力资源部,ming.zhu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-05-30T01:26:12.717Z,
+g00068,u0026,王敏,行政部,min.wang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2026-06-22T04:09:13.731Z,2026-08-22T00:09:45.402Z
+g00069,u0016,黄静,行政部,jing.huang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-12-30T05:00:52.134Z,
+g00070,u0065,杨桂英,财务部,guiying.yang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-09-13T02:57:16.369Z,2026-11-01T18:53:25.458Z
+g00071,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-09-21T05:31:40.605Z,2026-10-05T04:22:45.904Z
+g00072,u0003,赵静,销售部,jing.zhao@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-06-30T20:31:31.015Z,
+g00073,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-03-12T20:24:54.150Z,2026-09-24T18:09:16.349Z
+g00074,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-07-31T01:31:45.166Z,
+g00075,u0105,杨思远,财务部,siyuan.yang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-08-20T23:20:27.353Z,2026-09-01T20:49:51.534Z
+g00076,u0029,刘洋,信息技术部,yang.liu2@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2026-01-06T23:55:57.534Z,
+g00077,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata,2026-03-18T02:52:21.210Z,2026-11-16T03:06:34.835Z
+g00078,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-09-18T00:54:54.663Z,2026-08-07T03:07:39.170Z
+g00079,u0022,朱敏,市场部,min.zhu@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-08-11T18:27:09.867Z,2026-09-07T22:26:25.025Z
+g00080,u0062,郑芳,市场部,fang.zheng2@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-07-30T00:03:59.956Z,2026-09-22T23:25:11.893Z
+g00081,u0030,马霞,研发部,xia.ma@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-12-07T05:04:53.917Z,
+g00082,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2025-10-08T04:14:37.308Z,
+g00083,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;email,2025-09-14T20:49:59.971Z,2026-10-16T02:37:02.891Z
+g00084,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access;email,2026-04-04T04:52:59.564Z,2026-09-05T04:46:20.941Z
+g00085,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_mailtrack,迅捷邮件追踪,MailTrack Inc.,false,mail.read;mail.metadata;offline_access,2025-11-07T00:18:37.109Z,2026-10-16T02:03:51.755Z
+g00086,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-06-06T19:15:35.940Z,
+g00087,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-03-04T05:44:42.132Z,
+g00088,u0012,何芳,市场部,fang.he@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-06-27T21:35:12.970Z,2026-09-18T20:00:04.380Z
+g00089,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-11-30T22:22:48.811Z,
+g00090,u0099,何文,信息技术部,wen.he@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite,2025-08-30T23:02:40.102Z,
+g00091,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2026-08-25T18:24:19.057Z,2026-08-30T23:08:36.058Z
+g00092,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-09-29T20:31:48.976Z,
+g00093,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-11-11T18:01:35.987Z,
+g00094,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-12-24T22:14:03.830Z,2026-09-29T23:57:55.991Z
+g00095,u0106,林雪,行政部,xue.lin@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-10-16T22:07:43.585Z,
+g00096,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-04-05T23:32:59.872Z,2026-09-10T00:26:09.686Z
+g00097,u0081,陈浩然,产品部,haoran.chen@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2026-01-21T21:58:10.615Z,
+g00098,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2026-02-27T00:19:16.586Z,
+g00099,u0001,林娜,产品部,na.lin@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-07-15T04:11:40.050Z,2026-08-10T23:07:21.821Z
+g00100,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-10-08T23:45:41.535Z,2026-08-13T23:21:40.435Z
+g00101,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-09-10T00:05:15.890Z,
+g00102,u0068,王桂英,客户成功部,guiying.wang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-06-29T22:15:27.171Z,2026-09-18T03:21:20.370Z
+g00103,u0105,杨思远,财务部,siyuan.yang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-07-26T01:43:05.535Z,2026-10-28T01:53:52.699Z
+g00104,u0035,马敏,财务部,min.ma@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-10-21T23:29:49.813Z,2026-10-17T20:03:14.899Z
+g00105,u0027,赵浩然,法务部,haoran.zhao@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-12-02T21:03:36.778Z,2026-09-08T20:37:17.385Z
+g00106,u0032,王杰,市场部,jie.wang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-07-12T03:16:27.422Z,2026-09-15T18:29:11.646Z
+g00107,u0100,李芳,研发部,fang.li2@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite,2025-10-21T22:00:45.520Z,2026-08-07T00:36:26.009Z
+g00108,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-02-13T21:35:38.105Z,
+g00109,u0076,陈敏,行政部,min.chen@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-09-30T03:11:59.794Z,
+g00110,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2025-07-10T22:24:36.703Z,2026-08-03T19:12:40.851Z
+g00111,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-06-07T19:30:54.529Z,2026-10-31T04:35:10.330Z
+g00112,u0098,杨秀英,客户成功部,xiuying.yang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-12-25T18:32:05.738Z,
+g00113,u0002,郑伟,市场部,wei.zheng@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2026-06-27T18:42:49.670Z,2026-08-28T05:10:17.515Z
+g00114,u0077,马敏,法务部,min.ma2@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-08-25T00:05:51.921Z,2026-07-21T05:14:21.190Z
+g00115,u0038,刘强,客户成功部,qiang.liu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-10-09T21:29:39.144Z,2026-10-28T02:14:25.834Z
+g00116,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-10-25T20:23:34.868Z,2026-07-26T01:29:42.783Z
+g00117,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;profile,2026-02-19T21:47:22.195Z,
+g00118,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access,2025-12-27T23:33:43.095Z,2026-08-23T21:06:41.233Z
+g00119,u0095,陈华,财务部,hua.chen@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-10-28T22:00:50.327Z,2026-09-08T02:55:54.163Z
+g00120,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access,2025-09-27T01:46:44.170Z,
+g00121,u0007,张敏,法务部,min.zhang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-07-01T03:05:00.115Z,2026-10-26T19:18:21.596Z
+g00122,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-06-24T05:42:24.845Z,
+g00123,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-07-13T22:36:41.712Z,
+g00124,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2026-01-24T18:06:18.864Z,2026-10-19T00:35:05.111Z
+g00125,u0005,李桂英,财务部,guiying.li@acme-demo.com,app_drivesync,云盘万能同步,DriveSync Hub Ltd.,true,drive.full;drive.readwrite;offline_access;profile,2025-05-31T01:22:32.105Z,
+g00126,u0077,马敏,法务部,min.ma2@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-02-16T04:44:14.915Z,
+g00127,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2025-06-15T21:25:13.964Z,2026-08-12T02:21:10.014Z
+g00128,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-01-31T04:28:52.487Z,
+g00129,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2025-11-07T18:43:01.245Z,2026-09-21T05:00:25.800Z
+g00130,u0018,孙涛,客户成功部,tao.sun@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;offline_access;openid,2026-01-21T02:53:23.967Z,
+g00131,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access,2025-12-11T00:28:21.862Z,2026-11-09T00:30:00.291Z
+g00132,u0056,吴涛,行政部,tao.wu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-10-17T22:52:27.770Z,2026-10-06T05:20:10.261Z
+g00133,u0037,胡雨桐,法务部,yutong.hu2@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send,2026-08-02T01:26:19.033Z,2026-09-23T04:15:21.834Z
+g00134,u0050,张霞,研发部,xia.zhang@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access,2026-07-29T01:32:53.842Z,2026-10-06T21:35:05.198Z
+g00135,u0074,周洋,人力资源部,yang.zhou@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2025-09-16T01:45:47.624Z,2026-10-07T05:01:32.328Z
+g00136,u0051,胡超,产品部,chao.hu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-10-27T01:47:20.846Z,2026-09-30T20:41:14.484Z
+g00137,u0017,张刚,法务部,gang.zhang@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;openid,2026-07-25T22:08:44.061Z,
+g00138,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-10-22T01:07:02.484Z,2026-09-08T18:01:21.511Z
+g00139,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access,2025-09-09T02:57:08.356Z,2026-07-24T18:51:31.585Z
+g00140,u0095,陈华,财务部,hua.chen@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-11-07T02:17:22.646Z,2026-07-27T03:06:17.334Z
+g00141,u0099,何文,信息技术部,wen.he@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;offline_access;openid,2025-07-03T22:46:16.456Z,2026-11-12T01:52:37.494Z
+g00142,u0116,刘欣怡,行政部,xinyi.liu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-08-14T18:22:44.148Z,2026-08-12T23:13:17.410Z
+g00143,u0094,何明,人力资源部,ming.he@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;offline_access;openid,2026-11-07T01:06:45.941Z,
+g00144,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read,2025-11-30T19:57:18.493Z,2026-10-13T19:16:44.240Z
+g00145,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access,2026-09-16T01:50:08.620Z,
+g00146,u0042,何洋,市场部,yang.he@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access,2026-06-04T18:56:53.083Z,
+g00147,u0096,林杰,行政部,jie.lin@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-09-10T22:23:16.072Z,2026-09-06T05:33:57.755Z
+g00148,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2025-06-26T21:41:43.898Z,2026-09-27T19:39:50.584Z
+g00149,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;offline_access;openid,2026-10-22T23:07:08.982Z,2026-11-15T05:19:37.272Z
+g00150,u0103,周欣怡,销售部,xinyi.zhou@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;offline_access;openid,2025-10-23T21:06:03.342Z,2026-08-23T18:07:32.996Z
+g00151,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-10-19T03:48:58.268Z,
+g00152,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-11-07T00:21:24.343Z,2026-08-11T01:33:20.512Z
+g00153,u0104,朱平,人力资源部,ping.zhu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-01-04T00:46:26.985Z,2026-11-05T18:16:37.414Z
+g00154,u0045,李芳,财务部,fang.li@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-07-06T04:30:11.280Z,2026-10-23T03:18:45.657Z
+g00155,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_salesboost,CRM 客户管家,SalesBoost Technology,false,contacts.read;mail.read;mail.send;offline_access;openid,2026-08-12T05:51:10.796Z,2026-08-09T03:03:49.955Z
+g00156,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-09-16T01:49:24.997Z,
+g00157,u0094,何明,人力资源部,ming.he@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2026-01-08T02:44:23.237Z,2026-10-21T02:51:38.583Z
+g00158,u0030,马霞,研发部,xia.ma@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-01-07T00:55:05.300Z,2026-10-25T00:47:47.078Z
+g00159,u0021,刘洋,产品部,yang.liu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-11-29T05:58:43.750Z,2026-10-04T04:38:03.095Z
+g00160,u0105,杨思远,财务部,siyuan.yang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-04-03T19:37:40.893Z,
+g00161,u0090,马超,研发部,chao.ma@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2025-06-24T19:34:24.946Z,2026-10-15T02:27:25.476Z
+g00162,u0005,李桂英,财务部,guiying.li@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-08-01T19:21:17.889Z,2026-07-21T19:53:09.981Z
+g00163,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-05-16T19:27:55.480Z,2026-09-18T19:07:41.718Z
+g00164,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-05-11T04:58:49.368Z,2026-09-11T00:34:56.893Z
+g00165,u0100,李芳,研发部,fang.li2@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-07-19T05:08:05.700Z,2026-10-09T02:53:23.013Z
+g00166,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-08-22T03:21:15.690Z,2026-09-25T20:24:09.498Z
+g00167,u0023,周宇航,销售部,yuhang.zhou@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-01-17T00:21:35.957Z,2026-08-06T22:34:26.739Z
+g00168,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-04-14T01:58:11.657Z,2026-09-28T02:47:58.583Z
+g00169,u0114,何静,人力资源部,jing.he@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-03-02T20:25:56.042Z,2026-10-27T05:08:02.104Z
+g00170,u0070,杨静,研发部,jing.yang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-11-09T19:32:40.510Z,2026-08-23T20:08:48.155Z
+g00171,u0095,陈华,财务部,hua.chen@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-10-03T20:43:41.856Z,2026-09-29T04:10:07.733Z
+g00172,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-11-01T02:23:36.893Z,2026-07-31T02:56:08.421Z
+g00173,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-09-27T22:06:55.301Z,2026-09-10T20:55:52.342Z
+g00174,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-06-19T04:47:10.320Z,
+g00175,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-04-21T00:07:07.809Z,2026-07-26T22:24:44.923Z
+g00176,u0077,马敏,法务部,min.ma2@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-04-08T21:35:14.541Z,2026-08-10T03:44:26.614Z
+g00177,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-09-06T04:47:40.184Z,2026-11-03T05:09:19.951Z
+g00178,u0053,郭晓峰,销售部,xiaofeng.guo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2025-11-26T21:20:38.383Z,
+g00179,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-01-31T22:31:50.999Z,
+g00180,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-08-14T23:02:20.661Z,2026-10-14T22:57:59.803Z
+g00181,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2025-08-05T02:12:57.694Z,2026-11-14T19:15:59.156Z
+g00182,u0035,马敏,财务部,min.ma@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2025-08-30T03:33:32.252Z,2026-10-15T02:22:25.302Z
+g00183,u0109,林浩然,信息技术部,haoran.lin@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-11-05T03:09:20.236Z,
+g00184,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-10-16T01:41:59.301Z,2026-09-30T20:11:29.901Z
+g00185,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-09-29T21:59:01.279Z,2026-09-21T18:01:04.316Z
+g00186,u0060,朱敏,研发部,min.zhu2@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2025-07-22T20:00:49.118Z,2026-09-09T22:19:47.303Z
+g00187,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-08-31T00:18:27.523Z,2026-07-29T05:39:17.582Z
+g00188,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2026-04-26T18:41:54.908Z,2026-11-13T22:48:04.787Z
+g00189,u0034,吴宇航,人力资源部,yuhang.wu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2025-12-10T20:37:25.251Z,2026-10-19T05:33:17.401Z
+g00190,u0061,陈涛,产品部,tao.chen@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-07-10T19:43:07.034Z,
+g00191,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-07-19T04:25:36.172Z,2026-09-20T01:28:28.526Z
+g00192,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-10-26T00:46:53.113Z,2026-10-08T05:05:28.377Z
+g00193,u0051,胡超,产品部,chao.hu@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-07-02T00:06:21.678Z,
+g00194,u0003,赵静,销售部,jing.zhao@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-04-03T00:03:33.189Z,
+g00195,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-11-01T23:38:00.055Z,
+g00196,u0002,郑伟,市场部,wei.zheng@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2025-10-18T19:18:14.989Z,
+g00197,u0026,王敏,行政部,min.wang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2026-10-20T05:30:20.723Z,2026-09-13T19:31:44.036Z
+g00198,u0103,周欣怡,销售部,xinyi.zhou@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-02-22T18:32:36.740Z,2026-07-26T02:54:40.555Z
+g00199,u0016,黄静,行政部,jing.huang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-06-02T03:50:26.303Z,2026-09-04T22:41:04.127Z
+g00200,u0068,王桂英,客户成功部,guiying.wang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2025-09-07T03:42:27.768Z,2026-10-12T03:28:24.112Z
+g00201,u0029,刘洋,信息技术部,yang.liu2@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2026-03-17T01:08:51.402Z,2026-09-01T18:32:46.706Z
+g00202,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2025-09-19T18:00:28.843Z,2026-11-01T23:43:31.303Z
+g00203,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-07-15T04:24:03.456Z,2026-09-10T03:20:48.198Z
+g00204,u0015,孙雨桐,财务部,yutong.sun@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read,2025-08-26T02:44:45.112Z,2026-09-08T22:14:05.766Z
+g00205,u0106,林雪,行政部,xue.lin@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-04-14T22:08:36.299Z,2026-11-03T02:09:07.547Z
+g00206,u0093,李洋,销售部,yang.li@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-03-08T05:08:32.617Z,2026-09-14T21:44:34.652Z
+g00207,u0018,孙涛,客户成功部,tao.sun@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid;profile,2026-07-21T19:29:18.536Z,
+g00208,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-04-08T00:31:10.823Z,2026-08-30T03:38:51.187Z
+g00209,u0011,郭平,产品部,ping.guo@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;openid,2025-06-03T19:23:29.928Z,2026-11-09T21:09:18.397Z
+g00210,u0032,王杰,市场部,jie.wang@acme-demo.com,app_calendarmate,日程巧管家,CalendarMate Software,true,calendar.readwrite;calendar.read;profile,2026-01-27T01:38:24.515Z,2026-10-05T02:51:14.941Z
+g00211,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2026-09-13T21:21:54.824Z,2026-10-25T02:38:55.507Z
+g00212,u0011,郭平,产品部,ping.guo@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;profile,2026-07-31T20:17:51.910Z,
+g00213,u0074,周洋,人力资源部,yang.zhou@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-03-30T19:18:33.793Z,2026-11-17T02:29:25.149Z
+g00214,u0106,林雪,行政部,xue.lin@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;profile,2026-04-10T02:05:35.892Z,2026-10-31T05:58:28.287Z
+g00215,u0001,林娜,产品部,na.lin@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2026-02-04T02:36:08.550Z,2026-09-10T20:19:26.427Z
+g00216,u0081,陈浩然,产品部,haoran.chen@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-04-25T00:31:56.571Z,
+g00217,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;profile,2025-10-28T01:54:24.777Z,2026-10-28T22:14:46.635Z
+g00218,u0109,林浩然,信息技术部,haoran.lin@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-01-15T23:31:32.266Z,2026-11-04T21:36:09.081Z
+g00219,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-08-08T18:04:23.554Z,
+g00220,u0061,陈涛,产品部,tao.chen@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;profile,2026-04-20T23:52:15.299Z,2026-09-20T19:47:12.469Z
+g00221,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-03-24T01:19:32.067Z,2026-11-07T22:42:34.096Z
+g00222,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-09-07T03:21:16.757Z,2026-09-26T21:00:48.108Z
+g00223,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-06-06T03:59:06.016Z,2026-09-06T22:37:36.966Z
+g00224,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2025-11-07T19:58:59.488Z,2026-09-19T20:32:58.245Z
+g00225,u0065,杨桂英,财务部,guiying.yang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-06-08T20:57:47.902Z,
+g00226,u0076,陈敏,行政部,min.chen@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-03-19T05:33:08.450Z,2026-08-22T01:45:35.035Z
+g00227,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-03-05T20:12:20.930Z,2026-07-29T01:36:05.156Z
+g00228,u0055,徐刚,财务部,gang.xu@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-07-01T21:18:33.633Z,2026-11-04T22:41:25.414Z
+g00229,u0093,李洋,销售部,yang.li@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2026-07-29T03:51:23.279Z,
+g00230,u0026,王敏,行政部,min.wang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2025-12-18T00:06:32.875Z,2026-10-12T00:23:46.075Z
+g00231,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2026-11-02T01:49:37.256Z,
+g00232,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2025-10-02T22:47:49.335Z,
+g00233,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2026-10-27T19:20:11.172Z,2026-10-13T23:51:28.344Z
+g00234,u0110,孙建华,研发部,jianhua.sun@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access,2026-08-21T03:45:40.838Z,2026-07-28T21:46:21.666Z
+g00235,u0105,杨思远,财务部,siyuan.yang@acme-demo.com,app_chatarchive,团队聊天归档,Archie Labs,false,im.chat.read;im.chat.send;offline_access;profile,2025-08-30T19:45:25.366Z,2026-07-21T01:49:03.036Z
+g00236,u0095,陈华,财务部,hua.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-06-19T03:30:56.785Z,2026-10-11T23:21:12.613Z
+g00237,u0045,李芳,财务部,fang.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-13T22:32:14.984Z,2026-10-27T21:03:11.351Z
+g00238,u0110,孙建华,研发部,jianhua.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-01-14T22:56:20.645Z,
+g00239,u0001,林娜,产品部,na.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-09T04:21:11.981Z,
+g00240,u0018,孙涛,客户成功部,tao.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-07-08T02:11:22.128Z,2026-10-02T02:48:09.089Z
+g00241,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-04-01T03:24:55.970Z,2026-10-16T05:15:30.632Z
+g00242,u0037,胡雨桐,法务部,yutong.hu2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-10-24T02:34:30.187Z,2026-11-15T01:31:35.914Z
+g00243,u0005,李桂英,财务部,guiying.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-07-19T18:30:24.365Z,2026-11-11T00:58:35.245Z
+g00244,u0087,吴文,法务部,wen.wu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-09-01T21:20:38.433Z,2026-08-29T00:06:04.139Z
+g00245,u0027,赵浩然,法务部,haoran.zhao@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-08-31T23:08:03.600Z,2026-09-08T04:01:21.227Z
+g00246,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-08-03T05:08:49.019Z,2026-09-16T23:40:53.239Z
+g00247,u0083,胡强,销售部,qiang.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-11-05T02:56:57.488Z,
+g00248,u0060,朱敏,研发部,min.zhu2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-06-16T19:38:17.312Z,2026-08-07T00:46:24.414Z
+g00249,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-26T20:22:00.801Z,
+g00250,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-11-03T19:37:24.681Z,2026-08-27T22:58:35.033Z
+g00251,u0053,郭晓峰,销售部,xiaofeng.guo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-07-21T00:33:30.374Z,2026-08-26T21:31:05.083Z
+g00252,u0026,王敏,行政部,min.wang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-08T02:04:06.565Z,2026-11-14T02:02:07.150Z
+g00253,u0038,刘强,客户成功部,qiang.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-11-04T04:44:54.292Z,2026-08-12T02:26:43.575Z
+g00254,u0034,吴宇航,人力资源部,yuhang.wu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-03T20:52:46.122Z,2026-09-22T20:36:28.140Z
+g00255,u0015,孙雨桐,财务部,yutong.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-13T23:25:53.429Z,
+g00256,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-05-22T02:03:52.623Z,2026-10-30T23:52:17.461Z
+g00257,u0043,张浩然,销售部,haoran.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-07-14T02:22:51.711Z,
+g00258,u0051,胡超,产品部,chao.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-07-15T19:13:59.767Z,
+g00259,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-09-30T18:16:01.548Z,2026-07-29T01:10:23.841Z
+g00260,u0065,杨桂英,财务部,guiying.yang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-01T05:45:54.283Z,
+g00261,u0076,陈敏,行政部,min.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-04T18:49:35.823Z,2026-09-20T22:53:17.368Z
+g00262,u0021,刘洋,产品部,yang.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-18T05:59:45.399Z,2026-11-03T21:54:48.933Z
+g00263,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-05-09T21:36:37.542Z,2026-10-11T03:06:03.175Z
+g00264,u0103,周欣怡,销售部,xinyi.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-03-30T05:18:34.863Z,
+g00265,u0070,杨静,研发部,jing.yang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-16T23:13:06.255Z,
+g00266,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-03-17T01:11:57.481Z,2026-11-08T22:22:04.033Z
+g00267,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-09-12T19:33:56.302Z,
+g00268,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-06-16T05:38:58.301Z,
+g00269,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-06-28T02:24:29.737Z,2026-10-21T04:37:55.614Z
+g00270,u0023,周宇航,销售部,yuhang.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-04T04:50:22.186Z,
+g00271,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-04-17T19:52:09.526Z,2026-07-19T18:49:06.155Z
+g00272,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-01-10T20:02:29.416Z,
+g00273,u0104,朱平,人力资源部,ping.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-06T03:05:13.062Z,
+g00274,u0081,陈浩然,产品部,haoran.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-06-22T19:26:22.514Z,2026-09-17T02:37:05.288Z
+g00275,u0092,李建华,市场部,jianhua.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-06T03:55:51.078Z,
+g00276,u0008,周子轩,客户成功部,zixuan.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-16T22:42:03.823Z,2026-08-20T01:07:14.763Z
+g00277,u0074,周洋,人力资源部,yang.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-11-21T18:41:58.105Z,2026-07-22T23:33:32.251Z
+g00278,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-03-18T20:01:05.663Z,2026-08-07T22:50:37.786Z
+g00279,u0062,郑芳,市场部,fang.zheng2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-05T05:28:25.881Z,2026-08-31T05:00:41.480Z
+g00280,u0057,胡秀英,法务部,xiuying.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-03T18:33:37.921Z,2026-08-03T05:01:09.629Z
+g00281,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-09-16T04:12:54.631Z,2026-09-03T02:55:59.829Z
+g00282,u0012,何芳,市场部,fang.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-22T05:15:47.953Z,
+g00283,u0093,李洋,销售部,yang.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-23T04:38:24.061Z,
+g00284,u0119,胡涛,信息技术部,tao.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-21T21:11:20.950Z,2026-10-15T19:13:39.032Z
+g00285,u0010,陈伟,研发部,wei.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-28T05:18:17.200Z,2026-11-14T22:36:46.084Z
+g00286,u0071,陈强,产品部,qiang.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-10T05:21:27.938Z,
+g00287,u0040,李浩然,研发部,haoran.li@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-24T18:19:21.088Z,2026-09-02T23:33:17.848Z
+g00288,u0029,刘洋,信息技术部,yang.liu2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-27T20:24:16.191Z,2026-09-12T05:19:18.817Z
+g00289,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-08-11T02:06:40.380Z,
+g00290,u0030,马霞,研发部,xia.ma@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-19T18:02:57.197Z,2026-10-31T01:36:33.654Z
+g00291,u0100,李芳,研发部,fang.li2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-18T01:37:35.594Z,
+g00292,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-28T00:09:47.751Z,2026-10-10T20:30:10.837Z
+g00293,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-05-26T21:03:38.707Z,
+g00294,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-06-12T05:08:07.836Z,2026-10-31T22:07:43.811Z
+g00295,u0042,何洋,市场部,yang.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-04-06T22:27:01.301Z,2026-08-17T01:48:23.246Z
+g00296,u0046,林明,行政部,ming.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-31T02:09:29.270Z,2026-09-21T20:47:35.713Z
+g00297,u0028,杨建华,客户成功部,jianhua.yang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-10-31T23:55:08.831Z,2026-10-04T19:24:24.325Z
+g00298,u0052,郑雨桐,市场部,yutong.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-30T05:51:05.600Z,2026-08-30T19:35:03.003Z
+g00299,u0022,朱敏,市场部,min.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-03-03T00:47:18.101Z,
+g00300,u0108,孙浩然,客户成功部,haoran.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2025-08-01T22:24:54.188Z,2026-07-27T20:00:08.166Z
+g00301,u0080,赵浩然,研发部,haoran.zhao2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-16T18:27:52.500Z,2026-09-01T01:43:55.381Z
+g00302,u0114,何静,人力资源部,jing.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-24T19:28:05.945Z,
+g00303,u0032,王杰,市场部,jie.wang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-05-20T00:00:42.828Z,2026-11-16T19:37:01.620Z
+g00304,u0116,刘欣怡,行政部,xinyi.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-09-11T22:27:46.291Z,2026-08-17T00:30:37.394Z
+g00305,u0050,张霞,研发部,xia.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-01-03T00:12:58.564Z,2026-09-09T03:57:03.133Z
+g00306,u0055,徐刚,财务部,gang.xu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-05-27T23:58:10.765Z,2026-10-19T20:02:36.070Z
+g00307,u0109,林浩然,信息技术部,haoran.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-24T05:21:41.026Z,
+g00308,u0077,马敏,法务部,min.ma2@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-04-11T19:06:15.196Z,2026-07-25T20:35:48.531Z
+g00309,u0007,张敏,法务部,min.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-13T23:23:01.349Z,2026-09-23T00:57:07.493Z
+g00310,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-28T19:27:32.010Z,2026-08-20T00:41:01.919Z
+g00311,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-18T20:53:46.897Z,2026-08-26T03:30:54.999Z
+g00312,u0094,何明,人力资源部,ming.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-09-03T04:26:13.051Z,2026-10-14T03:21:36.518Z
+g00313,u0106,林雪,行政部,xue.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-07T05:28:16.571Z,
+g00314,u0099,何文,信息技术部,wen.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-13T00:52:01.433Z,2026-09-18T03:24:30.000Z
+g00315,u0047,郑芳,法务部,fang.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-09-02T04:46:38.638Z,2026-10-18T02:40:42.649Z
+g00316,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-06T02:31:10.210Z,2026-08-16T19:57:00.931Z
+g00317,u0056,吴涛,行政部,tao.wu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-03-22T00:15:57.989Z,
+g00318,u0090,马超,研发部,chao.ma@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-04-09T04:44:14.016Z,2026-08-30T00:36:36.305Z
+g00319,u0089,王晓峰,信息技术部,xiaofeng.wang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-07T03:13:05.826Z,2026-08-03T18:10:01.450Z
+g00320,u0073,周思远,销售部,siyuan.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-19T04:42:52.012Z,2026-09-12T19:08:16.552Z
+g00321,u0105,杨思远,财务部,siyuan.yang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-11-14T05:03:36.575Z,
+g00322,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-02T20:04:54.777Z,2026-08-18T21:28:21.078Z
+g00323,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-07T03:54:15.022Z,2026-10-25T19:16:04.098Z
+g00324,u0035,马敏,财务部,min.ma@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-02T03:36:24.057Z,2026-09-07T05:31:01.863Z
+g00325,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-02-03T19:09:35.145Z,2026-10-16T00:31:07.165Z
+g00326,u0002,郑伟,市场部,wei.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-07-14T05:24:35.183Z,
+g00327,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-06-16T04:27:22.869Z,2026-08-05T18:34:37.453Z
+g00328,u0017,张刚,法务部,gang.zhang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-21T19:08:25.530Z,
+g00329,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-06-30T03:08:28.466Z,2026-10-08T20:03:45.974Z
+g00330,u0078,罗雪,客户成功部,xue.luo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-02-06T00:04:55.708Z,
+g00331,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-07-19T23:50:07.640Z,2026-09-03T04:12:43.040Z
+g00332,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-19T03:25:40.105Z,2026-10-29T18:11:30.147Z
+g00333,u0068,王桂英,客户成功部,guiying.wang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-07-02T05:09:15.032Z,2026-10-19T21:26:31.963Z
+g00334,u0054,朱明,人力资源部,ming.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-02T00:46:16.928Z,2026-08-08T03:28:02.318Z
+g00335,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-25T05:26:02.485Z,2026-08-16T19:16:29.318Z
+g00336,u0011,郭平,产品部,ping.guo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-30T21:58:33.227Z,2026-08-04T02:38:39.542Z
+g00337,u0044,郭艳,人力资源部,yan.guo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-04-05T23:13:32.897Z,
+g00338,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-05-21T02:15:37.601Z,2026-09-16T04:55:36.260Z
+g00339,u0096,林杰,行政部,jie.lin@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-24T22:13:12.520Z,2026-09-27T01:28:48.708Z
+g00340,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-01-03T04:33:30.430Z,2026-09-27T04:08:17.091Z
+g00341,u0003,赵静,销售部,jing.zhao@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-16T02:44:56.144Z,
+g00342,u0016,黄静,行政部,jing.huang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-08-30T03:49:10.856Z,2026-09-12T21:07:59.247Z
+g00343,u0091,周平,产品部,ping.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-06-18T02:45:26.304Z,
+g00344,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-04T04:00:53.380Z,2026-07-31T18:50:04.680Z
+g00345,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-07-31T03:51:09.584Z,
+g00346,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-08-02T02:36:37.259Z,2026-08-18T05:18:29.438Z
+g00347,u0088,孙子轩,客户成功部,zixuan.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-02-26T21:23:53.370Z,
+g00348,u0061,陈涛,产品部,tao.chen@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-18T20:09:52.495Z,2026-09-13T18:01:32.987Z
+g00349,u0085,孙霞,财务部,xia.sun@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-05-30T18:08:12.113Z,2026-09-29T04:38:37.958Z
+g00350,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-10-24T03:38:38.387Z,2026-10-12T21:20:42.809Z
+g00351,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2026-10-02T03:38:16.010Z,
+g00352,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-26T22:11:55.308Z,2026-08-16T23:22:26.512Z
+g00353,u0025,胡雨桐,财务部,yutong.hu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-07-28T21:33:57.105Z,
+g00354,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile;email,2025-12-02T00:41:58.403Z,2026-08-13T01:57:48.682Z
+g00355,u0098,杨秀英,客户成功部,xiuying.yang@acme-demo.com,app_loginpass,身份直通登录,LoginPass SSO Corp.,true,openid;profile,2026-09-27T05:37:57.650Z,2026-10-06T01:06:34.878Z
+g00356,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-03-07T22:08:46.494Z,2026-08-26T19:55:43.804Z
+g00357,u0035,马敏,财务部,min.ma@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-07-11T02:41:54.265Z,
+g00358,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2025-09-19T22:16:42.729Z,2026-11-14T19:31:28.745Z
+g00359,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-01-15T23:08:57.848Z,2026-08-26T03:17:49.307Z
+g00360,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-09-25T22:39:38.455Z,
+g00361,u0018,孙涛,客户成功部,tao.sun@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-07-06T20:31:31.815Z,2026-10-29T19:33:56.694Z
+g00362,u0010,陈伟,研发部,wei.chen@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2025-06-06T04:56:57.452Z,2026-11-15T19:56:56.237Z
+g00363,u0040,李浩然,研发部,haoran.li@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-02-18T23:45:17.652Z,2026-10-15T03:27:28.635Z
+g00364,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-09-19T19:21:01.928Z,
+g00365,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2025-09-10T20:50:40.133Z,2026-10-17T22:54:47.112Z
+g00366,u0057,胡秀英,法务部,xiuying.hu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-12-10T03:49:59.658Z,2026-08-31T03:38:31.345Z
+g00367,u0016,黄静,行政部,jing.huang@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-07-06T22:21:56.008Z,
+g00368,u0087,吴文,法务部,wen.wu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-10-21T00:15:46.260Z,
+g00369,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-07-18T03:35:43.316Z,2026-07-30T23:00:04.200Z
+g00370,u0110,孙建华,研发部,jianhua.sun@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-03-18T00:52:43.013Z,2026-10-09T22:23:32.098Z
+g00371,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-12-08T02:19:51.427Z,2026-10-31T01:47:28.744Z
+g00372,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-04-10T05:10:05.406Z,2026-11-16T03:20:52.066Z
+g00373,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2026-01-15T22:38:46.477Z,2026-08-05T20:28:49.034Z
+g00374,u0037,胡雨桐,法务部,yutong.hu2@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2025-11-15T22:50:55.863Z,2026-10-07T02:00:52.254Z
+g00375,u0034,吴宇航,人力资源部,yuhang.wu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2026-07-13T04:50:06.704Z,2026-07-27T21:34:32.379Z
+g00376,u0094,何明,人力资源部,ming.he@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-01-20T01:25:56.686Z,2026-07-30T23:42:00.489Z
+g00377,u0045,李芳,财务部,fang.li@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-04-14T20:01:32.100Z,2026-10-01T19:16:10.505Z
+g00378,u0085,孙霞,财务部,xia.sun@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-07-17T22:04:00.323Z,2026-07-28T05:22:44.098Z
+g00379,u0043,张浩然,销售部,haoran.zhang@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-04-16T02:48:04.638Z,2026-09-16T20:19:53.091Z
+g00380,u0119,胡涛,信息技术部,tao.hu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-03-08T05:27:22.920Z,
+g00381,u0095,陈华,财务部,hua.chen@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-05-30T23:00:47.098Z,2026-08-14T21:38:51.182Z
+g00382,u0030,马霞,研发部,xia.ma@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-12-29T01:25:22.057Z,2026-10-10T02:30:24.410Z
+g00383,u0028,杨建华,客户成功部,jianhua.yang@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-03-28T05:09:35.867Z,2026-07-22T00:44:56.201Z
+g00384,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-06-27T01:48:59.165Z,2026-11-02T04:21:32.822Z
+g00385,u0073,周思远,销售部,siyuan.zhou@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2026-09-22T02:12:02.456Z,2026-07-23T05:41:20.424Z
+g00386,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-11-15T03:16:50.298Z,2026-09-25T20:40:59.895Z
+g00387,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-07-26T03:08:56.815Z,2026-07-29T22:28:20.356Z
+g00388,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-09-10T03:40:12.477Z,2026-11-14T01:26:21.004Z
+g00389,u0078,罗雪,客户成功部,xue.luo@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2025-12-12T19:38:53.693Z,2026-10-17T05:45:48.719Z
+g00390,u0116,刘欣怡,行政部,xinyi.liu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-11-01T02:58:30.368Z,2026-08-29T01:10:38.618Z
+g00391,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2025-12-03T04:02:06.435Z,2026-08-12T00:25:51.330Z
+g00392,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-07-11T22:54:31.834Z,2026-08-09T18:27:50.133Z
+g00393,u0090,马超,研发部,chao.ma@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2026-07-06T04:59:00.854Z,2026-09-04T05:42:06.233Z
+g00394,u0029,刘洋,信息技术部,yang.liu2@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2025-11-28T21:20:59.993Z,
+g00395,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-08-16T02:36:03.269Z,2026-10-24T23:08:33.167Z
+g00396,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-05-07T21:44:01.559Z,2026-10-13T02:11:44.367Z
+g00397,u0054,朱明,人力资源部,ming.zhu@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2026-10-21T00:13:16.690Z,2026-10-27T01:54:51.428Z
+g00398,u0065,杨桂英,财务部,guiying.yang@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;user.read,2026-03-21T05:10:24.067Z,
+g00399,u0096,林杰,行政部,jie.lin@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access;user.read,2025-09-02T00:25:22.828Z,2026-07-19T23:37:48.675Z
+g00400,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_sheetinsight,表格智能分析,SheetInsight BI,true,drive.read;drive.metadata;offline_access,2026-01-05T19:24:55.854Z,2026-08-26T05:19:06.466Z
+g00401,u0100,李芳,研发部,fang.li2@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;mail.read;offline_access,2026-06-30T23:09:01.964Z,2026-08-09T21:06:27.220Z
+g00402,u0068,王桂英,客户成功部,guiying.wang@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;mail.read;offline_access,2025-11-20T19:20:33.010Z,2026-10-27T19:00:52.002Z
+g00403,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;mail.read;offline_access,2025-12-29T21:46:35.611Z,
+g00404,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;mail.read,2025-07-02T01:25:40.059Z,2026-10-05T03:37:14.054Z
+g00405,u0035,马敏,财务部,min.ma@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;mail.read,2026-05-12T02:45:19.274Z,2026-09-12T00:35:50.352Z
+g00406,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_hireradar,招聘人才雷达,HireRadar Analytics,false,contacts.full;admin.users.read;offline_access,2026-10-10T19:10:41.424Z,
+g00407,u0103,周欣怡,销售部,xinyi.zhou@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite,2026-10-26T02:12:08.819Z,2026-08-15T04:13:10.044Z
+g00408,u0053,郭晓峰,销售部,xiaofeng.guo@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2026-09-03T22:07:11.312Z,2026-07-21T01:53:38.021Z
+g00409,u0096,林杰,行政部,jie.lin@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2025-07-12T18:49:15.945Z,2026-07-30T20:36:23.544Z
+g00410,u0016,黄静,行政部,jing.huang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2025-10-16T18:11:41.853Z,2026-09-04T05:25:19.241Z
+g00411,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2025-08-19T19:29:40.206Z,2026-11-04T20:08:57.808Z
+g00412,u0087,吴文,法务部,wen.wu@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-03-24T22:33:40.073Z,2026-10-05T18:02:52.948Z
+g00413,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2026-11-07T21:53:58.847Z,2026-09-01T00:54:46.771Z
+g00414,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-04-17T22:26:53.615Z,
+g00415,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-08-19T03:05:20.083Z,2026-10-13T01:31:28.934Z
+g00416,u0026,王敏,行政部,min.wang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2025-06-30T22:26:32.048Z,
+g00417,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-08-26T01:35:17.528Z,
+g00418,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2025-11-29T19:09:17.398Z,
+g00419,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-02-25T19:58:17.119Z,2026-11-06T05:17:03.445Z
+g00420,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2026-06-26T02:14:21.713Z,2026-07-19T20:03:40.331Z
+g00421,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2025-06-22T05:15:37.343Z,2026-08-11T05:39:46.282Z
+g00422,u0083,胡强,销售部,qiang.hu@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2025-06-14T03:38:59.184Z,2026-09-28T04:00:42.551Z
+g00423,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-10-30T04:34:53.303Z,2026-11-11T23:15:35.113Z
+g00424,u0071,陈强,产品部,qiang.chen@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2025-09-17T23:33:03.806Z,2026-11-10T23:39:22.047Z
+g00425,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2026-07-16T03:22:18.655Z,2026-08-07T01:47:00.248Z
+g00426,u0073,周思远,销售部,siyuan.zhou@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2026-09-06T23:45:43.006Z,2026-11-06T00:15:45.213Z
+g00427,u0060,朱敏,研发部,min.zhu2@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile,2025-11-23T01:58:00.639Z,
+g00428,u0012,何芳,市场部,fang.he@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2026-06-15T19:32:08.274Z,
+g00429,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2026-07-20T22:07:02.287Z,2026-10-29T22:46:30.283Z
+g00430,u0017,张刚,法务部,gang.zhang@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-08-03T21:48:42.798Z,2026-09-20T01:34:20.471Z
+g00431,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-07-07T19:12:13.932Z,2026-09-24T18:28:06.026Z
+g00432,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2025-08-16T03:33:42.071Z,2026-09-19T18:11:32.443Z
+g00433,u0010,陈伟,研发部,wei.chen@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-04-03T00:26:49.238Z,2026-10-08T00:31:28.271Z
+g00434,u0100,李芳,研发部,fang.li2@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite,2026-07-27T04:54:11.861Z,2026-11-14T03:45:26.087Z
+g00435,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-06-29T21:50:10.384Z,
+g00436,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite,2026-06-30T23:37:26.665Z,
+g00437,u0001,林娜,产品部,na.lin@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2025-08-10T20:46:12.472Z,
+g00438,u0090,马超,研发部,chao.ma@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2026-03-26T18:34:23.699Z,2026-10-18T22:28:44.402Z
+g00439,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2026-03-18T19:20:45.213Z,2026-08-28T18:22:19.897Z
+g00440,u0108,孙浩然,客户成功部,haoran.sun@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;profile;email,2025-12-27T18:56:51.102Z,2026-08-17T18:02:29.613Z
+g00441,u0047,郑芳,法务部,fang.zheng@acme-demo.com,app_signflow,文档电子签,SignFlow Legal Tech,true,drive.file;drive.readwrite;email,2025-12-26T20:25:13.290Z,2026-11-05T02:04:55.325Z
+g00442,u0050,张霞,研发部,xia.zhang@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-06-29T22:05:55.090Z,2026-09-19T20:04:13.904Z
+g00443,u0091,周平,产品部,ping.zhou@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read,2025-11-12T05:25:12.660Z,2026-10-04T05:44:44.829Z
+g00444,u0021,刘洋,产品部,yang.liu@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2025-12-15T22:46:59.985Z,2026-09-06T20:53:17.827Z
+g00445,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-06-24T21:17:14.046Z,
+g00446,u0119,胡涛,信息技术部,tao.hu@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-06-21T21:34:40.813Z,2026-11-08T22:45:33.883Z
+g00447,u0097,张敏,法务部,min.zhang2@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2025-12-06T18:07:28.286Z,
+g00448,u0118,马强,客户成功部,qiang.ma@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;offline_access,2025-07-23T23:25:12.245Z,2026-08-17T19:08:56.429Z
+g00449,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;offline_access,2025-07-18T02:08:23.796Z,
+g00450,u0078,罗雪,客户成功部,xue.luo@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read,2025-07-16T19:02:50.426Z,
+g00451,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2025-08-18T21:16:52.578Z,2026-09-25T01:05:43.144Z
+g00452,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-10-14T01:33:34.911Z,2026-10-11T02:37:14.079Z
+g00453,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read,2026-07-02T04:07:02.258Z,2026-07-27T05:58:59.564Z
+g00454,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-08-16T03:13:11.782Z,
+g00455,u0106,林雪,行政部,xue.lin@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-09-05T00:56:09.148Z,2026-07-20T22:47:44.831Z
+g00456,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2025-10-05T03:10:54.235Z,2026-09-03T05:02:01.941Z
+g00457,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read;offline_access,2026-02-20T18:34:19.802Z,2026-09-27T02:04:20.863Z
+g00458,u0012,何芳,市场部,fang.he@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read;contacts.read,2026-05-24T18:47:04.520Z,
+g00459,u0046,林明,行政部,ming.lin@acme-demo.com,app_mailblast,邮件群发营销,BlastMail Global,false,mail.send;mail.read,2026-01-12T03:02:29.736Z,
+g00460,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-10-25T03:40:14.555Z,2026-10-19T01:53:20.948Z
+g00461,u0053,郭晓峰,销售部,xiaofeng.guo@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-09-17T04:49:00.305Z,
+g00462,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-01-16T02:18:17.740Z,2026-09-03T19:49:08.110Z
+g00463,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-02-06T03:03:53.038Z,2026-10-03T00:37:53.367Z
+g00464,u0090,马超,研发部,chao.ma@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2025-12-25T20:21:35.615Z,2026-09-21T01:20:22.118Z
+g00465,u0083,胡强,销售部,qiang.hu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access,2026-09-24T22:17:03.442Z,
+g00466,u0103,周欣怡,销售部,xinyi.zhou@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-06-22T23:39:43.353Z,2026-10-01T00:03:18.095Z
+g00467,u0111,郑浩然,产品部,haoran.zheng@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-09-12T02:06:12.644Z,
+g00468,u0017,张刚,法务部,gang.zhang@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-10-09T05:42:37.822Z,2026-09-14T04:41:25.820Z
+g00469,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access,2026-02-11T01:53:22.355Z,2026-09-15T01:58:33.646Z
+g00470,u0089,王晓峰,信息技术部,xiaofeng.wang@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-01-10T00:18:45.509Z,2026-10-28T03:58:23.194Z
+g00471,u0096,林杰,行政部,jie.lin@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2025-06-06T20:04:55.231Z,2026-08-18T05:17:03.757Z
+g00472,u0095,陈华,财务部,hua.chen@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access,2025-12-20T02:55:55.826Z,2026-10-24T03:42:12.729Z
+g00473,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-01-31T20:59:41.500Z,2026-09-13T19:06:07.703Z
+g00474,u0077,马敏,法务部,min.ma2@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-01-04T18:08:33.412Z,2026-09-24T21:11:21.022Z
+g00475,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2025-12-02T19:07:10.063Z,2026-10-14T22:32:51.065Z
+g00476,u0012,何芳,市场部,fang.he@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2025-07-07T21:16:56.810Z,2026-11-01T03:49:36.520Z
+g00477,u0076,陈敏,行政部,min.chen@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read,2026-04-01T20:57:30.135Z,2026-10-02T23:00:50.691Z
+g00478,u0027,赵浩然,法务部,haoran.zhao@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-10-29T03:37:20.297Z,
+g00479,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-04-04T18:03:19.157Z,2026-09-17T23:21:47.925Z
+g00480,u0074,周洋,人力资源部,yang.zhou@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2025-09-17T20:54:47.642Z,2026-11-14T23:02:39.513Z
+g00481,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2025-12-19T03:20:39.053Z,2026-07-20T00:59:46.428Z
+g00482,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2026-06-24T18:36:41.691Z,2026-11-08T05:32:03.319Z
+g00483,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;offline_access;profile,2025-06-17T02:11:44.527Z,2026-11-06T03:34:14.362Z
+g00484,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-02-20T04:41:51.817Z,2026-10-24T21:09:38.067Z
+g00485,u0061,陈涛,产品部,tao.chen@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-05-17T21:18:30.955Z,2026-11-05T01:32:54.926Z
+g00486,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-06-22T05:26:27.156Z,2026-09-30T02:15:53.749Z
+g00487,u0055,徐刚,财务部,gang.xu@acme-demo.com,app_backupguard,网盘备份卫士,BackupGuard Security,true,drive.readwrite;drive.read;profile,2026-06-27T04:01:00.969Z,2026-08-09T03:39:57.297Z
+g00488,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-05-17T19:40:14.683Z,
+g00489,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-02-20T20:22:18.098Z,2026-09-19T18:09:18.425Z
+g00490,u0046,林明,行政部,ming.lin@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-11-04T21:55:05.112Z,2026-09-22T18:27:54.971Z
+g00491,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2025-08-01T00:00:53.163Z,2026-09-02T00:06:46.555Z
+g00492,u0093,李洋,销售部,yang.li@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read,2026-07-25T22:16:23.886Z,2026-08-26T22:38:39.784Z
+g00493,u0088,孙子轩,客户成功部,zixuan.sun@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-01-03T02:16:33.436Z,2026-08-26T20:29:06.175Z
+g00494,u0071,陈强,产品部,qiang.chen@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2025-11-03T20:56:15.870Z,
+g00495,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-05-25T21:45:03.645Z,2026-09-30T22:51:14.789Z
+g00496,u0080,赵浩然,研发部,haoran.zhao2@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-11-09T01:26:06.865Z,2026-07-26T02:24:59.860Z
+g00497,u0011,郭平,产品部,ping.guo@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read,2025-11-10T20:26:42.950Z,
+g00498,u0079,黄伟,信息技术部,wei.huang@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-08-21T23:32:44.645Z,2026-10-10T18:03:30.019Z
+g00499,u0035,马敏,财务部,min.ma@acme-demo.com,app_contactcleaner,通讯录清洗工具,CleanData Studio,false,contacts.readwrite;contacts.read;offline_access,2026-04-22T21:07:31.205Z,2026-10-31T00:13:15.213Z
+g00500,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;openid,2025-09-14T00:25:12.376Z,
+g00501,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-05-18T00:06:12.091Z,2026-10-16T19:05:41.820Z
+g00502,u0092,李建华,市场部,jianhua.li@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read,2025-10-05T22:16:18.523Z,2026-10-20T04:54:28.148Z
+g00503,u0072,李子轩,市场部,zixuan.li@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-05-08T23:46:29.249Z,2026-08-04T03:57:29.482Z
+g00504,u0040,李浩然,研发部,haoran.li@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read,2026-09-24T18:37:18.098Z,
+g00505,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-02-13T21:20:07.226Z,2026-09-17T21:34:53.236Z
+g00506,u0077,马敏,法务部,min.ma2@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;openid,2025-12-04T01:44:15.429Z,2026-08-15T00:43:36.038Z
+g00507,u0034,吴宇航,人力资源部,yuhang.wu@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2025-11-21T18:07:42.599Z,
+g00508,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2025-12-10T01:20:32.498Z,
+g00509,u0080,赵浩然,研发部,haoran.zhao2@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2025-09-19T18:37:23.250Z,
+g00510,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read,2025-06-14T22:31:54.552Z,2026-10-23T20:28:48.384Z
+g00511,u0046,林明,行政部,ming.lin@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-02-05T01:56:19.522Z,2026-08-21T18:42:35.195Z
+g00512,u0016,黄静,行政部,jing.huang@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-09-24T19:33:39.700Z,2026-10-11T22:34:34.583Z
+g00513,u0055,徐刚,财务部,gang.xu@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file,2026-06-06T19:18:24.641Z,2026-08-15T18:26:46.875Z
+g00514,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2025-12-01T22:45:01.853Z,2026-08-22T03:32:25.516Z
+g00515,u0037,胡雨桐,法务部,yutong.hu2@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-08-29T18:24:41.473Z,2026-07-24T21:43:25.558Z
+g00516,u0057,胡秀英,法务部,xiuying.hu@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file,2026-04-06T05:28:26.889Z,2026-11-03T01:58:49.846Z
+g00517,u0027,赵浩然,法务部,haoran.zhao@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;openid,2026-05-04T03:16:09.533Z,2026-11-08T01:00:02.453Z
+g00518,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2025-07-11T22:55:26.958Z,2026-11-01T19:26:19.239Z
+g00519,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;openid,2026-05-06T21:20:32.172Z,2026-08-20T02:02:04.109Z
+g00520,u0042,何洋,市场部,yang.he@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;openid,2025-08-13T21:54:15.868Z,2026-08-09T03:27:42.376Z
+g00521,u0015,孙雨桐,财务部,yutong.sun@acme-demo.com,app_meetnotes,会议纪要机器人,MeetNotes AI,true,calendar.read;im.chat.read;drive.file;openid,2026-06-19T19:34:53.984Z,
+g00522,u0080,赵浩然,研发部,haoran.zhao2@acme-demo.com,app_devtest,外包开发测试应用,个人开发者 (未上架),false,admin.tenant.full;admin.users.read;mail.full,2026-04-06T00:38:31.324Z,2026-08-26T03:07:11.759Z
+g00523,u0050,张霞,研发部,xia.zhang@acme-demo.com,app_devtest,外包开发测试应用,个人开发者 (未上架),false,admin.tenant.full;admin.users.read;mail.full,2026-05-19T23:19:37.269Z,2026-11-11T01:01:43.662Z
+g00524,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_devtest,外包开发测试应用,个人开发者 (未上架),false,admin.tenant.full;admin.users.read;offline_access,2026-11-04T22:07:45.717Z,2026-08-22T03:07:22.138Z
+g00525,u0059,朱洋,信息技术部,yang.zhu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-11-25T01:02:49.970Z,2026-08-14T04:38:12.556Z
+g00526,u0104,朱平,人力资源部,ping.zhu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2026-05-19T20:35:27.543Z,
+g00527,u0090,马超,研发部,chao.ma@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2026-02-16T23:30:53.691Z,2026-08-19T01:36:52.458Z
+g00528,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-04-27T18:58:17.511Z,2026-08-08T03:06:34.287Z
+g00529,u0091,周平,产品部,ping.zhou@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2025-12-31T19:16:44.662Z,
+g00530,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-01-23T21:34:35.779Z,2026-07-25T04:28:24.877Z
+g00531,u0100,李芳,研发部,fang.li2@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2026-03-15T05:49:10.142Z,2026-07-28T20:07:17.849Z
+g00532,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-08-12T22:31:55.540Z,2026-11-15T05:49:38.864Z
+g00533,u0040,李浩然,研发部,haoran.li@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-10-13T02:53:56.915Z,2026-07-23T22:06:14.776Z
+g00534,u0051,胡超,产品部,chao.hu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read,2025-12-05T23:35:50.399Z,2026-11-03T02:58:53.949Z
+g00535,u0106,林雪,行政部,xue.lin@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-01-23T23:35:40.080Z,2026-11-03T18:58:39.008Z
+g00536,u0060,朱敏,研发部,min.zhu2@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2026-06-06T01:01:53.412Z,2026-09-30T19:03:05.079Z
+g00537,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-01-21T05:39:38.167Z,2026-07-20T23:27:19.144Z
+g00538,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2026-04-07T00:16:24.925Z,2026-09-30T21:50:20.270Z
+g00539,u0095,陈华,财务部,hua.chen@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-11-26T18:59:58.410Z,2026-11-09T05:56:41.087Z
+g00540,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read,2026-06-24T21:44:12.894Z,2026-11-02T19:46:00.648Z
+g00541,u0042,何洋,市场部,yang.he@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-08-09T04:59:34.175Z,2026-09-24T01:58:36.507Z
+g00542,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-07-21T05:33:52.370Z,2026-09-12T04:37:50.767Z
+g00543,u0076,陈敏,行政部,min.chen@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-08-27T21:27:46.766Z,2026-11-05T21:47:23.423Z
+g00544,u0096,林杰,行政部,jie.lin@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-08-31T23:29:24.747Z,2026-08-11T19:20:19.560Z
+g00545,u0092,李建华,市场部,jianhua.li@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2026-08-27T03:33:49.900Z,
+g00546,u0022,朱敏,市场部,min.zhu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-07-05T00:27:53.421Z,2026-11-14T21:02:08.465Z
+g00547,u0052,郑雨桐,市场部,yutong.zheng@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-09-15T19:05:05.547Z,
+g00548,u0057,胡秀英,法务部,xiuying.hu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-09-02T23:27:36.129Z,2026-10-21T19:47:03.106Z
+g00549,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid,2026-05-31T22:20:01.789Z,2026-11-13T19:50:50.849Z
+g00550,u0099,何文,信息技术部,wen.he@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-03-09T19:52:11.836Z,
+g00551,u0028,杨建华,客户成功部,jianhua.yang@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-02-12T23:59:22.914Z,2026-08-09T04:27:07.140Z
+g00552,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-10-14T21:21:38.063Z,2026-09-01T05:47:15.564Z
+g00553,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2025-09-14T19:42:43.605Z,2026-08-12T22:22:16.445Z
+g00554,u0087,吴文,法务部,wen.wu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-08-11T03:25:28.961Z,2026-07-31T23:07:08.787Z
+g00555,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-06-03T01:21:04.569Z,
+g00556,u0043,张浩然,销售部,haoran.zhang@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;profile,2025-10-04T05:55:40.666Z,2026-09-30T03:32:12.997Z
+g00557,u0116,刘欣怡,行政部,xinyi.liu@acme-demo.com,app_invoiceocr,报销发票识别,InvoiceOCR Tech,true,drive.file;mail.read;openid;profile,2026-02-14T23:24:58.751Z,
+g00558,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2025-06-16T02:08:54.679Z,2026-07-28T04:09:56.790Z
+g00559,u0052,郑雨桐,市场部,yutong.zheng@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2026-05-22T18:35:54.850Z,2026-08-03T03:56:14.690Z
+g00560,u0094,何明,人力资源部,ming.he@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read,2025-06-27T20:02:41.801Z,2026-10-14T18:16:53.484Z
+g00561,u0086,罗欣怡,行政部,xinyi.luo@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-01-26T23:28:25.679Z,2026-09-25T00:54:14.375Z
+g00562,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2025-08-21T01:32:07.902Z,2026-10-03T18:12:20.431Z
+g00563,u0051,胡超,产品部,chao.hu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2026-08-16T03:07:59.401Z,2026-11-11T23:22:36.336Z
+g00564,u0077,马敏,法务部,min.ma2@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-01-06T21:54:09.335Z,
+g00565,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read,2025-08-12T05:16:28.420Z,
+g00566,u0045,李芳,财务部,fang.li@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-04-25T05:03:41.437Z,2026-09-14T20:57:38.131Z
+g00567,u0056,吴涛,行政部,tao.wu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-03-01T22:35:18.567Z,2026-10-15T01:18:18.642Z
+g00568,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2026-05-02T21:02:24.644Z,2026-10-01T19:07:22.939Z
+g00569,u0087,吴文,法务部,wen.wu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-06-02T18:02:08.556Z,
+g00570,u0100,李芳,研发部,fang.li2@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-02-23T02:53:32.951Z,2026-10-09T02:12:23.136Z
+g00571,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read,2026-10-11T05:55:46.016Z,2026-11-15T00:23:13.288Z
+g00572,u0095,陈华,财务部,hua.chen@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2025-07-18T20:26:09.382Z,2026-09-22T02:55:47.490Z
+g00573,u0085,孙霞,财务部,xia.sun@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-03-03T04:43:16.461Z,2026-10-28T21:05:23.427Z
+g00574,u0098,杨秀英,客户成功部,xiuying.yang@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite,2025-09-22T05:14:54.142Z,
+g00575,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;offline_access,2026-02-27T03:10:12.569Z,2026-10-23T04:42:58.695Z
+g00576,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read;offline_access,2026-11-08T04:48:40.976Z,
+g00577,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_helpdesk,客户支持工单台,HelpDesk One Inc.,false,mail.readwrite;im.chat.readwrite;contacts.read,2026-02-07T18:41:18.351Z,2026-07-27T04:11:42.753Z
+g00578,u0090,马超,研发部,chao.ma@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-09-24T21:18:59.630Z,2026-08-14T01:15:13.449Z
+g00579,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-05-15T23:59:01.837Z,2026-08-07T22:57:06.194Z
+g00580,u0039,林刚,信息技术部,gang.lin@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-10-25T00:24:42.176Z,2026-09-20T22:59:22.731Z
+g00581,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-08-30T19:09:09.453Z,
+g00582,u0093,李洋,销售部,yang.li@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-01-25T05:04:26.650Z,2026-08-10T02:55:09.633Z
+g00583,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2025-11-09T23:52:37.937Z,2026-08-04T18:56:38.338Z
+g00584,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-12-30T00:26:18.215Z,2026-10-10T04:43:24.763Z
+g00585,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-10-30T21:17:07.158Z,
+g00586,u0106,林雪,行政部,xue.lin@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-07-26T19:21:58.073Z,2026-08-15T21:28:19.537Z
+g00587,u0031,郑平,产品部,ping.zheng@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2026-04-21T18:19:27.675Z,2026-08-31T01:08:11.515Z
+g00588,u0054,朱明,人力资源部,ming.zhu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2026-09-19T00:50:22.980Z,2026-10-20T02:18:43.705Z
+g00589,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-12-14T03:52:20.404Z,2026-09-08T05:03:01.317Z
+g00590,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-05-05T21:22:18.963Z,2026-10-12T21:28:43.344Z
+g00591,u0025,胡雨桐,财务部,yutong.hu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-08-10T01:53:51.466Z,2026-10-25T04:39:14.601Z
+g00592,u0081,陈浩然,产品部,haoran.chen@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-05-07T22:27:20.755Z,2026-08-20T01:02:47.888Z
+g00593,u0042,何洋,市场部,yang.he@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-10-30T03:59:34.195Z,
+g00594,u0009,张桂英,信息技术部,guiying.zhang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2026-04-03T19:18:52.097Z,
+g00595,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-12-31T04:07:37.346Z,2026-09-23T01:24:14.749Z
+g00596,u0052,郑雨桐,市场部,yutong.zheng@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-09-21T20:32:21.390Z,2026-08-26T04:36:39.231Z
+g00597,u0100,李芳,研发部,fang.li2@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2026-07-23T05:41:45.846Z,2026-09-01T05:46:33.742Z
+g00598,u0119,胡涛,信息技术部,tao.hu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-08-18T22:38:09.348Z,2026-10-07T21:56:41.243Z
+g00599,u0112,刘雨桐,市场部,yutong.liu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-10-29T21:21:01.993Z,2026-09-13T01:24:22.618Z
+g00600,u0082,王建华,市场部,jianhua.wang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-06-29T21:16:20.036Z,
+g00601,u0002,郑伟,市场部,wei.zheng@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile,2025-06-06T02:31:28.521Z,
+g00602,u0045,李芳,财务部,fang.li@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-10-26T20:30:57.458Z,
+g00603,u0023,周宇航,销售部,yuhang.zhou@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2025-08-04T02:44:41.481Z,2026-10-02T03:06:20.581Z
+g00604,u0108,孙浩然,客户成功部,haoran.sun@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2025-06-02T00:45:52.610Z,2026-10-26T03:11:15.643Z
+g00605,u0029,刘洋,信息技术部,yang.liu2@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-07-14T21:30:43.955Z,2026-09-14T19:37:13.109Z
+g00606,u0078,罗雪,客户成功部,xue.luo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2025-11-22T22:41:55.621Z,2026-08-04T18:58:16.537Z
+g00607,u0004,朱文,人力资源部,wen.zhu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-07-06T01:49:42.432Z,2026-08-28T02:36:30.771Z
+g00608,u0027,赵浩然,法务部,haoran.zhao@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-12-14T19:36:05.345Z,
+g00609,u0019,罗涛,信息技术部,tao.luo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2026-01-24T23:07:59.069Z,2026-09-26T01:04:39.548Z
+g00610,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2026-09-07T02:12:41.803Z,2026-08-23T04:39:20.343Z
+g00611,u0006,周芳,行政部,fang.zhou@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile,2025-12-28T19:41:21.673Z,2026-10-17T03:07:01.233Z
+g00612,u0114,何静,人力资源部,jing.he@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-07-10T22:37:46.349Z,2026-09-22T03:32:46.941Z
+g00613,u0099,何文,信息技术部,wen.he@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-08-09T19:00:23.492Z,2026-09-28T00:25:08.685Z
+g00614,u0044,郭艳,人力资源部,yan.guo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-09-27T01:46:01.019Z,2026-07-21T02:31:42.351Z
+g00615,u0056,吴涛,行政部,tao.wu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-10-14T04:06:35.634Z,
+g00616,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-05-02T20:20:27.956Z,
+g00617,u0087,吴文,法务部,wen.wu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-07-04T21:56:58.659Z,2026-09-21T01:09:44.421Z
+g00618,u0035,马敏,财务部,min.ma@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-08-26T01:49:13.331Z,
+g00619,u0020,罗秀英,研发部,xiuying.luo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2025-08-21T05:33:28.862Z,
+g00620,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-10-31T01:49:55.512Z,2026-08-18T20:48:30.237Z
+g00621,u0076,陈敏,行政部,min.chen@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-07-13T19:03:30.743Z,
+g00622,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-06-04T00:58:34.997Z,2026-09-13T00:45:02.444Z
+g00623,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2025-09-04T02:37:15.024Z,2026-08-07T01:00:57.305Z
+g00624,u0071,陈强,产品部,qiang.chen@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2026-09-11T05:18:33.747Z,
+g00625,u0008,周子轩,客户成功部,zixuan.zhou@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-12-27T21:26:38.333Z,2026-11-02T20:20:40.545Z
+g00626,u0115,朱娜,财务部,na.zhu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-09-21T01:15:23.337Z,2026-08-17T20:20:49.741Z
+g00627,u0058,陈子轩,客户成功部,zixuan.chen@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-06-22T20:51:33.638Z,2026-08-09T04:12:37.778Z
+g00628,u0046,林明,行政部,ming.lin@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile,2026-01-14T04:33:52.741Z,2026-10-26T21:18:30.080Z
+g00629,u0070,杨静,研发部,jing.yang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-06-26T01:13:53.205Z,2026-08-20T19:05:55.749Z
+g00630,u0028,杨建华,客户成功部,jianhua.yang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-06-10T04:08:56.014Z,2026-11-12T18:50:12.517Z
+g00631,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-09-30T22:15:38.057Z,2026-10-24T19:43:52.217Z
+g00632,u0021,刘洋,产品部,yang.liu@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-11-26T18:12:52.509Z,2026-10-15T03:13:46.780Z
+g00633,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-08-19T19:08:38.107Z,2026-07-19T20:25:52.124Z
+g00634,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read,2026-04-11T18:40:27.200Z,2026-11-01T22:07:20.273Z
+g00635,u0053,郭晓峰,销售部,xiaofeng.guo@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2026-07-02T03:45:33.619Z,2026-10-18T18:49:21.197Z
+g00636,u0120,赵超,研发部,chao.zhao@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;email,2026-06-22T03:45:15.745Z,2026-09-28T18:49:17.193Z
+g00637,u0032,王杰,市场部,jie.wang@acme-demo.com,app_taskboard,项目进度看板,TaskBoard Works,true,openid;profile;calendar.read;email,2025-06-01T02:04:29.611Z,2026-10-25T00:13:06.849Z
+g00638,u0003,赵静,销售部,jing.zhao@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-04-28T05:06:07.201Z,2026-08-20T19:02:41.056Z
+g00639,u0033,赵子轩,销售部,zixuan.zhao@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read,2026-10-04T18:33:08.093Z,2026-09-12T02:30:16.306Z
+g00640,u0070,杨静,研发部,jing.yang@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2025-08-03T20:07:32.114Z,
+g00641,u0104,朱平,人力资源部,ping.zhu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-03-15T05:48:45.516Z,2026-08-12T05:33:17.352Z
+g00642,u0066,何桂英,行政部,guiying.he@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2025-11-17T23:04:09.347Z,2026-08-24T23:48:35.075Z
+g00643,u0022,朱敏,市场部,min.zhu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2025-07-04T18:27:29.032Z,
+g00644,u0041,马雨桐,产品部,yutong.ma@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-08-09T21:17:33.237Z,2026-07-31T20:41:26.244Z
+g00645,u0080,赵浩然,研发部,haoran.zhao2@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read,2026-02-11T19:40:34.311Z,2026-07-24T22:18:46.413Z
+g00646,u0024,吴洋,人力资源部,yang.wu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-07-18T18:02:37.391Z,2026-09-01T04:36:23.105Z
+g00647,u0018,孙涛,客户成功部,tao.sun@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-04-14T05:31:12.795Z,2026-09-28T18:29:56.682Z
+g00648,u0036,吴强,行政部,qiang.wu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-01-04T02:52:00.744Z,2026-09-11T03:07:26.519Z
+g00649,u0067,刘刚,法务部,gang.liu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-08-05T05:18:08.793Z,
+g00650,u0064,刘磊,人力资源部,lei.liu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-03-07T04:42:39.773Z,
+g00651,u0038,刘强,客户成功部,qiang.liu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read;profile,2026-10-30T00:42:50.955Z,2026-08-16T02:04:36.561Z
+g00652,u0107,胡浩然,法务部,haoran.hu@acme-demo.com,app_translatex,外贸翻译插件,TranslateX Browser,false,mail.read;drive.read,2026-09-07T20:38:41.871Z,2026-07-20T23:03:21.750Z
+g00653,u0116,刘欣怡,行政部,xinyi.liu@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read,2026-08-29T02:29:36.310Z,2026-08-26T20:35:17.033Z
+g00654,u0076,陈敏,行政部,min.chen@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2026-06-27T04:26:02.727Z,2026-11-13T00:54:12.119Z
+g00655,u0023,周宇航,销售部,yuhang.zhou@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2026-06-11T01:27:16.645Z,2026-07-26T00:38:56.168Z
+g00656,u0101,郑洋,产品部,yang.zheng@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read,2026-06-19T05:54:58.650Z,2026-07-22T05:05:23.534Z
+g00657,u0084,胡静,人力资源部,jing.hu@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2025-11-21T05:56:03.560Z,
+g00658,u0087,吴文,法务部,wen.wu@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2025-11-04T04:46:08.132Z,
+g00659,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2025-11-23T21:01:17.532Z,2026-10-01T01:52:07.637Z
+g00660,u0083,胡强,销售部,qiang.hu@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read,2026-07-06T22:59:19.474Z,
+g00661,u0049,张磊,信息技术部,lei.zhang@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2025-12-28T21:11:52.289Z,2026-09-19T02:12:05.877Z
+g00662,u0073,周思远,销售部,siyuan.zhou@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read,2026-10-14T21:01:16.764Z,2026-08-16T00:08:29.662Z
+g00663,u0035,马敏,财务部,min.ma@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2026-02-13T20:05:09.804Z,2026-09-30T18:43:07.130Z
+g00664,u0047,郑芳,法务部,fang.zheng@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2026-01-19T20:57:23.978Z,2026-09-23T04:28:25.666Z
+g00665,u0048,林强,客户成功部,qiang.lin@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2025-11-17T03:32:41.080Z,2026-08-08T01:42:05.540Z
+g00666,u0108,孙浩然,客户成功部,haoran.sun@acme-demo.com,app_linkmanager,网盘外链管家,LinkMaster Cloud,true,drive.metadata;drive.read;user.read,2026-06-01T04:37:17.781Z,2026-07-23T20:43:31.565Z
+g00667,u0117,胡欣怡,法务部,xinyi.hu@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;profile,2026-08-26T03:19:02.839Z,2026-10-04T04:46:52.399Z
+g00668,u0102,周伟,市场部,wei.zhou@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;openid;profile,2026-01-27T03:29:10.189Z,2026-11-15T02:27:56.223Z
+g00669,u0063,郑华,销售部,hua.zheng@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;profile,2026-05-24T18:34:04.540Z,2026-08-09T21:51:27.192Z
+g00670,u0051,胡超,产品部,chao.hu@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;openid;profile,2025-10-28T00:31:11.722Z,2026-08-20T19:09:13.949Z
+g00671,u0013,刘秀英,销售部,xiuying.liu@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;openid;profile,2026-02-26T23:22:13.062Z,2026-09-19T02:40:10.893Z
+g00672,u0069,张雨桐,信息技术部,yutong.zhang@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;openid;profile,2025-07-25T23:12:04.268Z,2026-08-13T22:25:58.927Z
+g00673,u0113,陈宇航,销售部,yuhang.chen@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;openid;profile,2026-02-05T00:46:45.720Z,2026-09-24T18:28:44.445Z
+g00674,u0014,郭芳,人力资源部,fang.guo@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard,2026-06-30T05:00:07.811Z,
+g00675,u0075,罗雨桐,财务部,yutong.luo@acme-demo.com,app_flowapproval,智能审批流,FlowApproval Solutions,false,approval.workflow.readwrite;widget.dashboard;profile,2025-10-27T03:12:26.567Z,2026-11-16T23:53:41.934Z
