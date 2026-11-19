@@ -1,0 +1,23 @@
+{
+  "name": "secure-pin-input",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Vue3 防窥口令输入组件：随机软键盘 + 一次性 ECDH/AES-GCM 加密 + 注入检测 + 木马模拟测试页",
+  "scripts": {
+    "dev": "vite",
+    "server": "node server/session-server.mjs",
+    "demo": "node scripts/dev.mjs",
+    "build": "vite build",
+    "smoke": "node scripts/smoke-test.mjs",
+    "e2e": "node scripts/e2e-test.mjs"
+  },
+  "dependencies": {
+    "vue": "^3.5.13"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.2.1",
+    "playwright": "^1.65.1",
+    "vite": "^6.0.7"
+  }
+}
